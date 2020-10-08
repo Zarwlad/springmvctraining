@@ -5,9 +5,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class HelloWorldController {
-
-    @RequestMapping("/")
-    public String main(){
-        return "main";
+    @RequestMapping("/showForm")
+    public String showForm(){
+        return "helloworld-form";
     }
+
+    @RequestMapping("/processForm")
+    public String processing(){
+        return "shalom";
+    }
+
 }
