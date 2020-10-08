@@ -11,6 +11,6 @@
     <title>Shalom!</title>
 </head>
 <body>
-<h1>Наконец то получилось!</h1>
+<h1>Heeey!</h1>
 </body>
 </html>
