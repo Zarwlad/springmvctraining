@@ -13,6 +13,9 @@
 <body>
 <h1>Spring rules. Or not?</h1>
 <hr>
-<a href="showForm">Hello world form</a>
+<a href="/hello/showForm">Hello world form</a>
+<br>
+<br>
+<a href="/student/showForm">Student form</a>
 </body>
 </html>
